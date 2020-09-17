@@ -1,0 +1,49 @@
+{
+    "details":[
+        {
+            "Card":{
+                "name":"lavanya",
+                "role":"student",
+                "email":"lavanya@gmail.com"
+                
+            },
+            "career":"Iam  become a software developer",
+            "education"   :"Iam completed my ssc in sri bharathi vidya mandiram with CGPA 8.1",
+            "intermediate":"Iam completed myintermediate in Narayana college with percentage of 94%",
+            "graduation"  :"iam studying my b.tech in Rajeev Gaandhi Memorial College Of Engineering",
+            "technical":"basics of c,c++,java,python",
+            "web":"html,css,bootstrap",
+            "db":"mysql,dbms",
+            "acheivements":"won a second prizein essay writing on the occasion of gandhi jayanthi",
+            "rank": "secured a 556 rank in infytq exam offeredby a infyosys",
+            "personal":"good presentation skills",
+            "personal1":"communication skills",
+            "project":"developed a an andriod application wastage of food through donation"  
+            
+        },
+    
+        {
+            "Card":{
+                "name":"chandu",
+                "role":"student",
+                "email":"chandu2000@gmail.com"
+            
+            },
+            "career":"Iam  become a full stack developer",
+            "education"   :"Iam completed my ssc in Ragavendra with CGPA 8.1",
+            "intermediate":"Iam completed myintermediate in Narayana college with percentage of 90%",
+            "graduation"  :"iam studying my b.tech in Annamacharaya insistute of technology",
+            "technical":"basics of c,c++,java,python",
+            "web":"html,css,bootstrap",
+            "db":"mysql,dbms,mangodb",
+            "acheivements":"won a second prizein essay writing on the occasion of gandhi jayanthi",
+            "rank": "secured a 600 rank in infytq exam offeredby a infyosys",
+            "personal":"good presentation skills",
+            "personal1":"communication skills",
+            "project":"developed a one website for food system"  
+            
+
+        }
+        
+    ]
+}
